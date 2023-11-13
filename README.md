@@ -29,11 +29,5 @@ Das Hauptziel von Durak ist es, alle Karten loszuwerden und nicht als letzter Sp
 - **Ende des Angriffs:**
   - Der Angriff endet, wenn der Verteidiger die Karten schlägt oder aufnimmt. Der nächste Spieler in der Reihe wird der neue Angreifer.
 
-- **Sonderregel:**
-  - Es ist erlaubt, Karten in einer bestimmten Runde auszusetzen (nicht zu verteidigen), um den Druck auf den Verteidiger zu erhöhen.
-
 - **Spielende:**
-  - Das Spiel endet, wenn der Stapel aufgebraucht ist und ein Spieler alle seine Karten losgeworden ist. Der letzte Spieler mit Karten in der Hand wird zum Durak erklärt.
-
-## 4. Fazit:
-Durak ist ein fesselndes Kartenspiel, das Strategie, Taktik und manchmal auch Glück erfordert. Die Kombination aus Angriff und Verteidigung macht es zu einem aufregenden Spiel für Spieler aller Altersgruppen. Viel Spaß beim Spielen von Durak!
+  - Das Spiel endet, wenn der Stapel aufgebraucht ist und die Spieler alle seine Karten losgeworden sind. Der letzte Spieler mit Karten in der Hand wird zum Durak erklärt.
