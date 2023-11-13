@@ -1,4 +1,4 @@
-# Durak - Ein ausführliches ReadMe
+# Durak - Ein ausführliches README
 
 ## 1. Einführung: Was ist Durak?
 Durak ist ein traditionelles russisches Kartenspiel, das in vielen Ländern bekannt und beliebt ist. Der Name "Durak" bedeutet auf Russisch so viel wie "Dummkopf" oder "Narr", was auf die Spieler anspielt, die das Ziel haben, nicht als Letzter Karten auf der Hand zu behalten.
