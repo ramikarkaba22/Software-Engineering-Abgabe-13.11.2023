@@ -9,12 +9,8 @@ Das Hauptziel von Durak ist es, alle Karten loszuwerden und nicht als letzter Sp
 ## 3. Spielablauf:
 - **Spieler:** Durak wird mit 2 bis 6 Spielern gespielt, wobei 36 Karten verwendet werden. Im Spiel werden die Karten in der Regel in aufsteigender Reihenfolge von der 6 bis zum Ass verwendet.
 
-- **Kartenwertung:**
-  - **Ass:** 11 Punkte
-  - **König:** 4 Punkte
-  - **Dame:** 3 Punkte
-  - **Bube:** 2 Punkte
-  - **10 bis 6:** 10 bis 6 Punkte entsprechend
+![Durak Logo](Durak_Ablauf.png)
+
 
 - **Verteilung der Karten:**
   - Jeder Spieler erhält zunächst sechs Karten, und eine offene Karte wird in die Mitte des Tisches gelegt.
